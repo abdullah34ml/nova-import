@@ -4,6 +4,7 @@ namespace Anaseqal\NovaImport;
 
 use Laravel\Nova\Nova;
 use Laravel\Nova\Tool;
+use Illuminate\Http\Request;
 
 class NovaImport extends Tool
 {
